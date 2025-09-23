@@ -63,17 +63,11 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1,Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 
-#EXTINF:-1,Киноман
-http://95.85.109.219:7000/play/a06a
-
 #EXTINF:-1,Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
 
-#EXTINF:-1,Кинопоказ
+#EXTINF:-1,Наш Кинопоказ
 http://87.252.254.168:4020/udp/233.81.116.52:1234
-
-#EXTINF:-1,Кинопремьера
-http://178.124.179.122:8088/Kinopremiera/index.m3u8
 
 #EXTINF:-1,Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
@@ -111,7 +105,7 @@ http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1,Новий Канал / Надія
 http://178.217.215.57/mob/mystream.m3u8
 
-#EXTINF:-1,Новий Канал / Надія
+#EXTINF:-1,Новий Канал / Надія (Резерв)
 http://192.141.167.40/nadiya_novychannel/mpegts
 
 #EXTINF:-1,Новосілки ТБ
@@ -159,9 +153,6 @@ http://87.252.254.168:4020/udp/233.81.116.156:1234
 #EXTINF:-1,Сонце
 https://tva.in.ua/live/sonce.m3u8
 
-#EXTINF:-1,СТБ
-http://185.207.34.107:8000/play/stb
-
 #EXTINF:-1,СТС
 https://streaming.goodstream.cyou/live/296.m3u8
 
@@ -173,9 +164,6 @@ http://87.252.254.168:4020/udp/233.81.116.71:1234
 
 #EXTINF:-1,Теле Кафе (Резерв)
 http://46.8.46.14/telecafe/index.m3u8
-
-#EXTINF:-1,Теле Кафе (Резерв)
-http://45.11.139.43:8555/telekafe/index.m3u8
 
 #EXTINF:-1,ТНТ
 http://46.8.46.14/tnt/index.m3u8
@@ -335,3 +323,78 @@ http://93.125.121.61:8383/play/a037
 
 #EXTINF:-1,Інтер +
 http://45.143.108.110:4200/INTER
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,group-title="18+",Playboy
+http://193.27.209.122/playboy/index.m3u8
+
+#EXTINF:-1,group-title="18+",Erox HD
+http://193.27.209.122/erox/index.m3u8
+
+#EXTINF:-1,group-title="18+",HUSTLER HD
+http://193.111.244.35:7474/hustlerhd/manifest.m3u8
+
+#EXTINF:-1,group-title="18+",Vivid Red HD
+http://103.49.40.100:30010/VIVIDREDHD
+
+#EXTINF:-1,group-title="18+",Extasy TV
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",Babes TV
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",Brazzers TV Europe
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",Dorcel TV
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",Digital Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",Vivid Red HD
+http://95.216.97.235:7776/vividredhd
+
+#EXTINF:-1,group-title="18+",ЯК TV
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",PENTHOUSE REALITY TV
+http://185.236.230.212:9981/play/a0am
+
+#EXTINF:-1,group-title="18+",VIXEN HD
+http://185.236.230.212:9981/play/a09x
+
+#EXTINF:-1,group-title="18+",PENTHOUSE GOLD
+http://185.236.230.212:9981/play/a0al
+
+#EXTINF:-1,group-title="18+",Playboy
+http://190.56.9.114:8000/play/a02t/index.m3u8
+
+#EXTINF:-1,group-title="18+",Playboy (Резерв)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1,group-title="18+",Venus
+http://181.188.216.5:18000/play/a01h/index.m3u8
+
+#EXTINF:-1,group-title="18+",Playboy HD
+http://181.188.216.5:18000/play/a0o4/index.m3u8
+
+#EXTINF:-1,group-title="18+",Sextreme
+http://181.188.216.5:18000/play/a01i/index.m3u8
