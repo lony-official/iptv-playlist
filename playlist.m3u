@@ -1,327 +1,300 @@
 #EXTM3U
 
-#EXTINF:-1,Бровари Кіно TV
+#EXTINF:-1,group-title="Кино",Бровари Кіно TV
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 
-#EXTINF:-1,БІГУДІ
+#EXTINF:-1,group-title="Кино",БІГУДІ
 http://185.207.34.107:8000/play/bigudi
 
-#EXTINF:-1,Восьмой
-http://87.252.254.168:4020/udp/233.81.116.59:1234
-
-#EXTINF:-1,Время
-http://87.252.254.168:4020/udp/233.81.116.40:1234
-
-#EXTINF:-1,Детское кино Int.
+#EXTINF:-1,group-title="Кино",Детское кино Int.
 https://v2.catcast.tv/content/38720/index.m3u8
 
-#EXTINF:-1,Дом
+#EXTINF:-1,group-title="Кино",Дом
 http://46.8.46.14/dom/index.m3u8
 
-#EXTINF:-1,Дом Кино
+#EXTINF:-1,group-title="Кино",Дом Кино
 https://streaming.goodstream.cyou/live/44.m3u8
 
-#EXTINF:-1,Дом Кино Премиум HD
+#EXTINF:-1,group-title="Кино",Дом Кино Премиум HD
 http://84.54.128.52:9090/play/a001/index.m3u8
 
-#EXTINF:-1,Домашний
+#EXTINF:-1,group-title="Кино",Домашний
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
-#EXTINF:-1,Домашний Int.
+#EXTINF:-1,group-title="Кино",Домашний Int.
 http://93.125.121.61:8383/play/a009
 
-#EXTINF:-1,Дорама
+#EXTINF:-1,group-title="Кино",Дорама
 http://193.27.209.122/dorama/index.m3u8
 
-#EXTINF:-1,Еврокино
+#EXTINF:-1,group-title="Кино",Еврокино
 http://46.8.46.14/eurokino/index.m3u8
 
-#EXTINF:-1,Затеряный Мир
+#EXTINF:-1,group-title="Кино",Затеряный Мир
 https://v2.catcast.tv/content/47781/index.m3u8
 
-#EXTINF:-1,Золотая коллекция Мосфильм
-http://87.252.254.168:4020/udp/233.81.116.169:1234
-
-#EXTINF:-1,Золотая коллекция Мосфильм (Резерв)
+#EXTINF:-1,group-title="Кино",Золотая коллекция Мосфильм
 http://95.85.109.219:7000/play/a08u
 
-#EXTINF:-1,Иллюзион
+#EXTINF:-1,group-title="Кино",Иллюзион
 http://93.125.121.61:8383/play/a01p
 
-#EXTINF:-1,КВН
+#EXTINF:-1,group-title="Кино",КВН
 http://46.8.46.14/kvn/index.m3u8
 
-#EXTINF:-1,КВН (Резерв)
+#EXTINF:-1,group-title="Кино",КВН (Резерв)
 http://93.125.121.61:8383/play/a030
 
-#EXTINF:-1,Кинеко
+#EXTINF:-1,group-title="Кино",Кинеко
 http://93.125.121.61:8383/play/a035
 
-#EXTINF:-1,Кино 1 Int.
+#EXTINF:-1,group-title="Кино",Кино 1 Int.
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
-#EXTINF:-1,Кинокомедия
+#EXTINF:-1,group-title="Кино",Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 
-#EXTINF:-1,Киномикс
+#EXTINF:-1,group-title="Кино",Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
 
-#EXTINF:-1,Наш Кинопоказ
-http://87.252.254.168:4020/udp/233.81.116.52:1234
-
-#EXTINF:-1,Киносвидание
+#EXTINF:-1,group-title="Кино",Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 
-#EXTINF:-1,Киносемья
+#EXTINF:-1,group-title="Кино",Киносемья
 http://194.32.242.245/kinosemya/index.m3u8
 
-#EXTINF:-1,Киносемья HD
+#EXTINF:-1,group-title="Кино",Киносемья HD
 http://194.32.242.245/kinosemyahd/index.m3u8
 
-#EXTINF:-1,Киносерия
+#EXTINF:-1,group-title="Кино",Киносерия
 http://95.85.109.219:7000/play/a087
 
-#EXTINF:-1,КИНОТВ
+#EXTINF:-1,group-title="Кино",КИНОТВ
 http://46.8.46.14/kinotv/index.m3u8
 
-#EXTINF:-1,Кинохит
+#EXTINF:-1,group-title="Кино",Кинохит
 http://46.8.46.14/kinohit/index.m3u8
 
-#EXTINF:-1,КТК
+#EXTINF:-1,group-title="Кино",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
 
-#EXTINF:-1,Любимое Кино
+#EXTINF:-1,group-title="Кино",Любимое Кино
 http://84.54.128.52:9090/play/a002/index.m3u8
 
-#EXTINF:-1,Мир Сериала
+#EXTINF:-1,group-title="Кино",Мир Сериала
 http://93.125.121.61:8383/play/a02s
 
-#EXTINF:-1,Моя планета
+#EXTINF:-1,group-title="Кино",Моя планета
 http://93.125.121.61:8383/play/Intelsat85k1305
 
-#EXTINF:-1,Наше Новое Кино
+#EXTINF:-1,group-title="Кино",Наше Новое Кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 
-#EXTINF:-1,Новий Канал / Надія
+#EXTINF:-1,group-title="Кино",Новий Канал / Надія
 http://178.217.215.57/mob/mystream.m3u8
 
-#EXTINF:-1,Новий Канал / Надія (Резерв)
+#EXTINF:-1,group-title="Кино",Новий Канал / Надія (Резерв)
 http://192.141.167.40/nadiya_novychannel/mpegts
 
-#EXTINF:-1,Новосілки ТБ
-http://filmtv.zapto.org/novosilkitb/video.m3u8?token=Ijb9BSWre2eLJ3
-
-#EXTINF:-1,Ностальгия
+#EXTINF:-1,group-title="Кино",Ностальгия
 http://158.101.222.193:88/georgia_play.php?id=nostalgy
 
-#EXTINF:-1,НСТ
+#EXTINF:-1,group-title="Кино",НСТ
 http://95.85.109.219:7000/play/a097
 
-#EXTINF:-1,ОНТ
+#EXTINF:-1,group-title="Кино",ОНТ
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 
-#EXTINF:-1,Перец!
+#EXTINF:-1,group-title="Кино",Перец!
 http://93.125.121.61:8383/play/a007
 
-#EXTINF:-1,Перец! (Резерв)
+#EXTINF:-1,group-title="Кино",Перец! (Резерв)
 http://95.85.109.219:7000/play/a08t
 
-#EXTINF:-1,Перец! (Резерв)
+#EXTINF:-1,group-title="Кино",Перец! (Резерв)
 http://158.101.222.193:88/georgia_play.php?id=perec
 
-#EXTINF:-1,Пятница! Int.
+#EXTINF:-1,group-title="Кино",Пятница! Int.
 http://158.101.222.193:88/georgia_play.php?id=friday
 
-#EXTINF:-1,Романтичное
+#EXTINF:-1,group-title="Кино",Романтичное
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 
-#EXTINF:-1,РуБестеллер
+#EXTINF:-1,group-title="Кино",РуБестеллер
 http://46.8.46.14/rubestseller/index.m3u8
 
-#EXTINF:-1,РуРоман
+#EXTINF:-1,group-title="Кино",РуРоман
 http://46.8.46.14/ruroman/index.m3u8
 
-#EXTINF:-1,Сine+ legend
+#EXTINF:-1,group-title="Кино",Сine+ legend
 http://193.27.209.122/cine_plus_legend/index.m3u8
 
-#EXTINF:-1,Сериал
+#EXTINF:-1,group-title="Кино",Сериал
 http://87.252.254.168:4020/udp/233.81.116.65:1234
 
-#EXTINF:-1,Советские Мультфильмы
+#EXTINF:-1,group-title="Кино",Советские Мультфильмы
 http://87.252.254.168:4020/udp/233.81.116.156:1234
 
-#EXTINF:-1,Сонце
+#EXTINF:-1,group-title="Кино",Сонце
 https://tva.in.ua/live/sonce.m3u8
 
-#EXTINF:-1,СТС
+#EXTINF:-1,group-title="Кино",СТС
 https://streaming.goodstream.cyou/live/296.m3u8
 
-#EXTINF:-1,ТВ3
+#EXTINF:-1,group-title="Кино",ТВ3
 http://46.8.46.14/tv3/index.m3u8
 
-#EXTINF:-1,Теле Кафе
+#EXTINF:-1,group-title="Кино",Теле Кафе
 http://87.252.254.168:4020/udp/233.81.116.71:1234
 
-#EXTINF:-1,Теле Кафе (Резерв)
+#EXTINF:-1,group-title="Кино",Теле Кафе (Резерв)
 http://46.8.46.14/telecafe/index.m3u8
 
-#EXTINF:-1,ТНТ
+#EXTINF:-1,group-title="Кино",ТНТ
 http://46.8.46.14/tnt/index.m3u8
 
-#EXTINF:-1,ТНТ4
+#EXTINF:-1,group-title="Кино",ТНТ4
 http://93.125.121.61:8383/play/a020
 
-#EXTINF:-1,УНІАН серіал
+#EXTINF:-1,group-title="Кино",УНІАН серіал
 https://m3u8.ott.blue/watch/236/index.m3u8?geo=auto&token=94450098895765784220366841698509
 
-#EXTINF:-1,Феникс
+#EXTINF:-1,group-title="Кино",Феникс
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 
-#EXTINF:-1,Хіт Твое Кіно
+#EXTINF:-1,group-title="Кино",Хіт Твое Кіно
 http://193.27.209.122/tvoje_kino_hit/index.m3u8
 
-#EXTINF:-1,Чародеи
+#EXTINF:-1,group-title="Кино",Чародеи
 https://v2.catcast.tv/content/47783/index.m3u8
 
-#EXTINF:-1,ЧЕ! ТВ
+#EXTINF:-1,group-title="Кино",ЧЕ! ТВ
 http://93.125.121.61:8383/play/a033
 
-#EXTINF:-1,.black
+#EXTINF:-1,group-title="Кино",.black
 http://188.237.47.212:6007
 
-#EXTINF:-1,.scifi
+#EXTINF:-1,group-title="Кино",.scifi
 http://87.252.254.168:4020/udp/233.81.116.38:1234
 
-#EXTINF:-1,.scifi (Резерв)
+#EXTINF:-1,group-title="Кино",.scifi (Резерв)
 http://188.237.47.212:6001
 
-#EXTINF:-1,31 канал
+#EXTINF:-1,group-title="Кино",31 канал
 http://sc.id-tv.kz/31Kanal_34_35.m3u8
 
-#EXTINF:-1,Action Твое Кіно
+#EXTINF:-1,group-title="Кино",Action Твое Кіно
 http://193.27.209.122/tvoje_kino_action/index.m3u8
 
-#EXTINF:-1,Amedia 1
+#EXTINF:-1,group-title="Кино",Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 
-#EXTINF:-1,Amedia 2
+#EXTINF:-1,group-title="Кино",Amedia 2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 
-#EXTINF:-1,Amedia Hit
+#EXTINF:-1,group-title="Кино",Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 
-#EXTINF:-1,Amedia Premium
+#EXTINF:-1,group-title="Кино",Amedia Premium
 http://93.125.121.61:8383/play/Intelsat85k812
 
-#EXTINF:-1,Bollywood HD
+#EXTINF:-1,group-title="Кино",Bollywood HD
 http://193.27.209.122/bollywood/index.m3u8
 
-#EXTINF:-1,Cinema
+#EXTINF:-1,group-title="Кино",Cinema
 http://46.8.46.14/cinema/index.m3u8
 
-#EXTINF:-1,Continent E
-http://95.67.12.82:9083
-
-#EXTINF:-1,Dizi
+#EXTINF:-1,group-title="Кино",Dizi
 http://193.27.209.122/dizi/index.m3u8
 
-#EXTINF:-1,EP!C
+#EXTINF:-1,group-title="Кино",EP!C
 http://87.252.254.168:4020/udp/233.81.116.63:1234
 
-#EXTINF:-1,FILM TV
-http://filmtv.zapto.org/FILM_TV_GROUP/video.m3u8?token=Ijb9BSWre2eLJ3
-
-#EXTINF:-1,FILM TV Кінозал
-http://filmtv.zapto.org/FILMTVKinozal/video.m3u8?token=Ijb9BSWre2eLJ3
-
-#EXTINF:-1,FX
+#EXTINF:-1,group-title="Кино",FX
 http://46.8.46.14/FOX/index.m3u8
 
-#EXTINF:-1,FX Life
+#EXTINF:-1,group-title="Кино",FX Life
 http://188.237.47.212:6008
 
-#EXTINF:-1,Hollywood
+#EXTINF:-1,group-title="Кино",Hollywood
 http://194.32.242.245/hollywood/index.m3u8
 
-#EXTINF:-1,Hollywood HD
+#EXTINF:-1,group-title="Кино",Hollywood HD
 http://194.32.242.245/hollywoodhd/index.m3u8
 
-#EXTINF:-1,Kinosweet
+#EXTINF:-1,group-title="Кино",Kinosweet
 http://193.27.209.122/kinosweet/index.m3u8
 
-#EXTINF:-1,Kinowood
-http://193.27.209.122/kinowood/index.m3u8
-
-#EXTINF:-1,MGM
+#EXTINF:-1,group-title="Кино",MGM
 https://autopilot.catcast.tv/content/44051/index.m3u8
 
-#EXTINF:-1,MovieClassic
+#EXTINF:-1,group-title="Кино",MovieClassic
 http://87.252.254.168:4020/udp/233.81.116.41:1234
 
-#EXTINF:-1,SAGA
+#EXTINF:-1,group-title="Кино",SAGA
 http://95.85.109.219:7000/play/a05w
 
-#EXTINF:-1,SHOT TV
+#EXTINF:-1,group-title="Кино",SHOT TV
 http://93.125.121.61:8383/play/a034
 
-#EXTINF:-1,Super+
+#EXTINF:-1,group-title="Кино",super+
 http://193.27.209.122/super_plus/index.m3u8
 
-#EXTINF:-1,super+
+#EXTINF:-1,group-title="Кино",super+ (Резерв)
 http://185.207.34.107:8000/play/superplus
 
-#EXTINF:-1,TERRA
+#EXTINF:-1,group-title="Кино",TERRA
 http://87.252.254.168:4020/udp/233.81.116.58:1234
 
-#EXTINF:-1,TNT4 Int.
+#EXTINF:-1,group-title="Кино",TNT4 Int.
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
-#EXTINF:-1,TV 21
+#EXTINF:-1,group-title="Кино",TV 21
 http://46.8.46.14/TV21/index.m3u8
 
-#EXTINF:-1,TV 21 (Резерв)
+#EXTINF:-1,group-title="Кино",TV 21 (Резерв)
 http://93.125.121.61:8383/play/Intelsat85k507
 
-#EXTINF:-1,TV1000 Русское
+#EXTINF:-1,group-title="Кино",TV1000 Русское
 http://213.169.39.30:5006
 
-#EXTINF:-1,TВ21M
+#EXTINF:-1,group-title="Кино",TВ21M
 http://87.252.254.168:4020/udp/233.81.116.177:1234
 
-#EXTINF:-1,TНТ Int.
+#EXTINF:-1,group-title="Кино",TНТ Int.
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
-#EXTINF:-1,U
+#EXTINF:-1,group-title="Кино",U
 http://93.125.121.61:8383/play/a02n
 
-#EXTINF:-1,viju Explore
+#EXTINF:-1,group-title="Кино",viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 
-#EXTINF:-1,viju Nature
+#EXTINF:-1,group-title="Кино",viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 
-#EXTINF:-1,viju TV1000
+#EXTINF:-1,group-title="Кино",viju TV1000
 http://46.8.46.14/tv1000/index.m3u8
 
-#EXTINF:-1,viju TV1000 Action
+#EXTINF:-1,group-title="Кино",viju TV1000 Action
 http://87.252.254.168:4020/udp/233.81.116.162:1234
 
-#EXTINF:-1,viju TV1000 Романтика
+#EXTINF:-1,group-title="Кино",viju TV1000 Романтика
 http://87.252.254.168:4020/udp/233.81.116.66:1234
 
-#EXTINF:-1,viju TV1000 Русское
+#EXTINF:-1,group-title="Кино",viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 
-#EXTINF:-1,viju+ Comedy
+#EXTINF:-1,group-title="Кино",viju+ Comedy
 http://93.125.121.61:8383/play/a00m
 
-#EXTINF:-1,viju+ Megahit
+#EXTINF:-1,group-title="Кино",viju+ Megahit
 http://93.125.121.61:8383/play/a038
 
-#EXTINF:-1,viju+ Premiere
+#EXTINF:-1,group-title="Кино",viju+ Premiere
 http://93.125.121.61:8383/play/a037
 
-#EXTINF:-1,Інтер +
+#EXTINF:-1,group-title="Кино",Інтер +
 http://45.143.108.110:4200/INTER
 
 
