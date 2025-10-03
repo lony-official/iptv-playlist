@@ -12,9 +12,6 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом
 http://46.8.46.14/dom/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Дом Кино
-https://streaming.goodstream.cyou/live/44.m3u8
-
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
 http://84.54.128.52:9090/play/a001/index.m3u8
 
@@ -93,9 +90,6 @@ http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 group-title="Кино",Новий Канал / Надія
 http://178.217.215.57/mob/mystream.m3u8
 
-#EXTINF:-1 group-title="Кино",Новий Канал / Надія (Резерв)
-http://192.141.167.40/nadiya_novychannel/mpegts
-
 #EXTINF:-1 group-title="Кино",Ностальгия
 http://158.101.222.193:88/georgia_play.php?id=nostalgy
 
@@ -129,25 +123,13 @@ http://46.8.46.14/ruroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Сine+ legend
 http://193.27.209.122/cine_plus_legend/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Сериал
-http://87.252.254.168:4020/udp/233.81.116.65:1234
-
-#EXTINF:-1 group-title="Кино",Советские Мультфильмы
-http://87.252.254.168:4020/udp/233.81.116.156:1234
-
 #EXTINF:-1 group-title="Кино",Сонце
 https://tva.in.ua/live/sonce.m3u8
-
-#EXTINF:-1 group-title="Кино",СТС
-https://streaming.goodstream.cyou/live/296.m3u8
 
 #EXTINF:-1 group-title="Кино",ТВ3
 http://46.8.46.14/tv3/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Теле Кафе
-http://87.252.254.168:4020/udp/233.81.116.71:1234
-
-#EXTINF:-1 group-title="Кино",Теле Кафе (Резерв)
 http://46.8.46.14/telecafe/index.m3u8
 
 #EXTINF:-1 group-title="Кино",ТНТ
@@ -175,9 +157,6 @@ http://93.125.121.61:8383/play/a033
 http://188.237.47.212:6007
 
 #EXTINF:-1 group-title="Кино",.scifi
-http://87.252.254.168:4020/udp/233.81.116.38:1234
-
-#EXTINF:-1 group-title="Кино",.scifi (Резерв)
 http://188.237.47.212:6001
 
 #EXTINF:-1 group-title="Кино",31 канал
@@ -207,9 +186,6 @@ http://46.8.46.14/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",Dizi
 http://193.27.209.122/dizi/index.m3u8
 
-#EXTINF:-1 group-title="Кино",EP!C
-http://87.252.254.168:4020/udp/233.81.116.63:1234
-
 #EXTINF:-1 group-title="Кино",FX
 http://46.8.46.14/FOX/index.m3u8
 
@@ -228,9 +204,6 @@ http://193.27.209.122/kinosweet/index.m3u8
 #EXTINF:-1 group-title="Кино",MGM
 https://autopilot.catcast.tv/content/44051/index.m3u8
 
-#EXTINF:-1 group-title="Кино",MovieClassic
-http://87.252.254.168:4020/udp/233.81.116.41:1234
-
 #EXTINF:-1 group-title="Кино",SAGA
 http://95.85.109.219:7000/play/a05w
 
@@ -243,9 +216,6 @@ http://193.27.209.122/super_plus/index.m3u8
 #EXTINF:-1 group-title="Кино",super+ (Резерв)
 http://185.207.34.107:8000/play/superplus
 
-#EXTINF:-1 group-title="Кино",TERRA
-http://87.252.254.168:4020/udp/233.81.116.58:1234
-
 #EXTINF:-1 group-title="Кино",TNT4 Int.
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
@@ -257,9 +227,6 @@ http://93.125.121.61:8383/play/Intelsat85k507
 
 #EXTINF:-1 group-title="Кино",TV1000 Русское
 http://213.169.39.30:5006
-
-#EXTINF:-1 group-title="Кино",TВ21M
-http://87.252.254.168:4020/udp/233.81.116.177:1234
 
 #EXTINF:-1 group-title="Кино",TНТ Int.
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
@@ -275,12 +242,6 @@ http://158.101.222.193:88/georgia_play.php?id=viasatnat
 
 #EXTINF:-1 group-title="Кино",viju TV1000
 http://46.8.46.14/tv1000/index.m3u8
-
-#EXTINF:-1 group-title="Кино",viju TV1000 Action
-http://87.252.254.168:4020/udp/233.81.116.162:1234
-
-#EXTINF:-1 group-title="Кино",viju TV1000 Романтика
-http://87.252.254.168:4020/udp/233.81.116.66:1234
 
 #EXTINF:-1 group-title="Кино",viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
