@@ -18,9 +18,6 @@ http://84.54.128.52:9090/play/a001/index.m3u8
 #EXTINF:-1 group-title="Кино",Домашний
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
-#EXTINF:-1 group-title="Кино",Домашний Int.
-http://93.125.121.61:8383/play/a009
-
 #EXTINF:-1 group-title="Кино",Дорама
 http://193.27.209.122/dorama/index.m3u8
 
@@ -33,17 +30,8 @@ https://v2.catcast.tv/content/47781/index.m3u8
 #EXTINF:-1 group-title="Кино",Золотая коллекция Мосфильм
 http://95.85.109.219:7000/play/a08u
 
-#EXTINF:-1 group-title="Кино",Иллюзион
-http://93.125.121.61:8383/play/a01p
-
 #EXTINF:-1 group-title="Кино",КВН
 http://46.8.46.14/kvn/index.m3u8
-
-#EXTINF:-1 group-title="Кино",КВН (Резерв)
-http://93.125.121.61:8383/play/a030
-
-#EXTINF:-1 group-title="Кино",Кинеко
-http://93.125.121.61:8383/play/a035
 
 #EXTINF:-1 group-title="Кино",Кино 1 Int.
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
@@ -78,12 +66,6 @@ http://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 group-title="Кино",Любимое Кино
 http://84.54.128.52:9090/play/a002/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Мир Сериала
-http://93.125.121.61:8383/play/a02s
-
-#EXTINF:-1 group-title="Кино",Моя планета
-http://93.125.121.61:8383/play/Intelsat85k1305
-
 #EXTINF:-1 group-title="Кино",Наше Новое Кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 
@@ -100,9 +82,6 @@ http://95.85.109.219:7000/play/a097
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 
 #EXTINF:-1 group-title="Кино",Перец!
-http://93.125.121.61:8383/play/a007
-
-#EXTINF:-1 group-title="Кино",Перец! (Резерв)
 http://95.85.109.219:7000/play/a08t
 
 #EXTINF:-1 group-title="Кино",Перец! (Резерв)
@@ -135,9 +114,6 @@ http://46.8.46.14/telecafe/index.m3u8
 #EXTINF:-1 group-title="Кино",ТНТ
 http://46.8.46.14/tnt/index.m3u8
 
-#EXTINF:-1 group-title="Кино",ТНТ4
-http://93.125.121.61:8383/play/a020
-
 #EXTINF:-1 group-title="Кино",УНІАН серіал
 https://m3u8.ott.blue/watch/236/index.m3u8?geo=auto&token=94450098895765784220366841698509
 
@@ -149,9 +125,6 @@ http://193.27.209.122/tvoje_kino_hit/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Чародеи
 https://v2.catcast.tv/content/47783/index.m3u8
-
-#EXTINF:-1 group-title="Кино",ЧЕ! ТВ
-http://93.125.121.61:8383/play/a033
 
 #EXTINF:-1 group-title="Кино",.black
 http://188.237.47.212:6007
@@ -173,9 +146,6 @@ http://158.101.222.193:88/georgia_play.php?id=amedia2
 
 #EXTINF:-1 group-title="Кино",Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
-
-#EXTINF:-1 group-title="Кино",Amedia Premium
-http://93.125.121.61:8383/play/Intelsat85k812
 
 #EXTINF:-1 group-title="Кино",Bollywood HD
 http://193.27.209.122/bollywood/index.m3u8
@@ -207,9 +177,6 @@ https://autopilot.catcast.tv/content/44051/index.m3u8
 #EXTINF:-1 group-title="Кино",SAGA
 http://95.85.109.219:7000/play/a05w
 
-#EXTINF:-1 group-title="Кино",SHOT TV
-http://93.125.121.61:8383/play/a034
-
 #EXTINF:-1 group-title="Кино",super+
 http://193.27.209.122/super_plus/index.m3u8
 
@@ -222,17 +189,11 @@ https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 group-title="Кино",TV 21
 http://46.8.46.14/TV21/index.m3u8
 
-#EXTINF:-1 group-title="Кино",TV 21 (Резерв)
-http://93.125.121.61:8383/play/Intelsat85k507
-
 #EXTINF:-1 group-title="Кино",TV1000 Русское
 http://213.169.39.30:5006
 
 #EXTINF:-1 group-title="Кино",TНТ Int.
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
-
-#EXTINF:-1 group-title="Кино",U
-http://93.125.121.61:8383/play/a02n
 
 #EXTINF:-1 group-title="Кино",viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
@@ -245,15 +206,6 @@ http://46.8.46.14/tv1000/index.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-
-#EXTINF:-1 group-title="Кино",viju+ Comedy
-http://93.125.121.61:8383/play/a00m
-
-#EXTINF:-1 group-title="Кино",viju+ Megahit
-http://93.125.121.61:8383/play/a038
-
-#EXTINF:-1 group-title="Кино",viju+ Premiere
-http://93.125.121.61:8383/play/a037
 
 #EXTINF:-1 group-title="Кино",Інтер +
 http://45.143.108.110:4200/INTER
@@ -285,9 +237,6 @@ http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="18+",HUSTLER HD
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
 
-#EXTINF:-1 group-title="18+",Vivid Red HD
-http://103.49.40.100:30010/VIVIDREDHD
-
 #EXTINF:-1 group-title="18+",Extasy TV
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 
@@ -308,9 +257,6 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="18+",Digital Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="18+",Vivid Red HD
-http://95.216.97.235:7776/vividredhd
 
 #EXTINF:-1 group-title="18+",ЯК TV
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
