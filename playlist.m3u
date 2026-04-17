@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="Кино",Детское кино Int.
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино 1 Int.
@@ -17,6 +18,16 @@ http://212.79.122.11:5014/udp/239.255.6.31:1234
 http://212.79.122.11:5014/udp/239.255.6.40:1234
 #EXTINF:-1 group-title="Кино",К1
 http://212.79.122.11:5014/udp/239.255.6.41:1234
+#EXTINF:-1 group-title="Кино",1+1 Україна
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384904&extension=ts
+#EXTINF:-1 group-title="Кино",Україна
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",НТН
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384894&extension=ts
+#EXTINF:-1 group-title="Кино",СТБ
+http://87.246.54.249:8080/espressotv/index.m3u8
+#EXTINF:-1 group-title="Кино",Бровари Кіно TV
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 group-title="Кино",Киномикс
@@ -37,10 +48,6 @@ http://158.101.222.193:88/georgia_play.php?id=amedia
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 group-title="Кино",Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:-1 group-title="Кино",viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="Кино",viju Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Кино",viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино",.black
@@ -49,55 +56,95 @@ http://158.101.222.193:88/georgia_play.php?id=black
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Viju TV1000 Action
+#EXTINF:-1 group-title="Кино",viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="Кино",Дом Кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Кино",Кино ТВ
+#EXTINF:-1 group-title="Кино",Кино TV
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 group-title="Кино",Русский Иллюзион
-http://158.101.222.193:88/georgia_play.php?id=rusilluzion
-#EXTINF:-1 group-title="Кино",Русский роман
-http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="Кино",LAV-KINO
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Retrovision
-https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Retrovision Classic
-https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Retrovision Motor
-http://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Retrovision Кинопанорама
-https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Смотрим
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Мистер Бин
+https://fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:-1 group-title="Кино",Классика кино
+http://46.53.208.4/live/3006.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="Кино",Советское кино
+http://46.53.208.4/live/3018.m3u8?keytva.in.ua
+#EXTINF:-1 group-title="Кино",Золотая коллекция
+http://185.164.82.18:9010/ykMHqK_Fox
+#EXTINF:-1 group-title="Кино",MM Скорость
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Action
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Comedy
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Drama
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Fiction
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Fresh
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Mix
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Cartoon
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Fresh UA
+http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="Кино",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="Кино",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="Кино",НСТ
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 group-title="Кино",viju+ megahit
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="Кино",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="18+",Hustler HD
-http://169.150.255.53/Hustler/index.m3u8
 #EXTINF:-1 group-title="18+",BangU
 http://169.150.255.53/BangU/index.m3u8
 #EXTINF:-1 group-title="18+",Playboy TV HD
 http://169.150.255.53/PlayboyHD/index.m3u8
-#EXTINF:-1 group-title="18+",Private TV
-http://87.246.54.249:8080/PrivateTV/index.m3u8
 #EXTINF:-1 group-title="18+",Brazzers HD
 http://45.145.32.13:20440/brazzers/index.m3u8?token=test
 #EXTINF:-1 group-title="18+",FrenchLover
 http://169.150.223.25/FrenchLover/index.m3u8
 #EXTINF:-1 group-title="18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1 group-title="18+",Pink Erotic 1
+http://169.150.255.53/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="18+",Pink Erotic 2
+http://169.150.255.53/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="18+",Pink Erotic 3
+http://169.150.255.53/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="18+",Pink Erotic 4
+http://169.150.255.53/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="18+",Pink Erotic 5
+http://169.150.255.53/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="18+",Pink Erotic 7
+http://169.150.255.53/PinkErotic7/index.m3u8
+#EXTINF:-1 group-title="18+",Pink Erotic 8
+http://169.150.255.53/PinkErotic8/index.m3u8
+#EXTINF:-1 group-title="18+",Red Lips
+http://tinyurl.com/TvZaTak37/Red_Lips/manifest.m3u8
+#EXTINF:-1 group-title="18+",Русская ночь
+http://tinyurl.com/TvZaTak37/Russkaya_Noch/manifest.m3u8
+#EXTINF:-1 group-title="18+",Brazzers TV
+http://78.130.250.2:8023/play/a06f/index.m3u8
+#EXTINF:-1 group-title="18+",Dorcel
+http://78.130.250.2:8023/play/a069/index.m3u8
+#EXTINF:-1 group-title="18+",Redlight 
+http://78.130.250.2:8023/play/a05q/index.m3u8
+#EXTINF:-1 group-title="18+",Blue Hustler
+http://78.130.250.2:8023/play/a03g/index.m3u8
 #EXTINF:-1 group-title="18+",Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
 #EXTINF:-1 group-title="18+",Brunette
