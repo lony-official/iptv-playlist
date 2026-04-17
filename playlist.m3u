@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Кино",Детское кино Int.
-https://v2.catcast.tv/content/38720/index.m3u8
+http://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино 1 Int.
-https://kino-1.catcast.tv/content/38617/index.m3u8
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино",ТЕТ
 http://212.79.122.11:5014/udp/239.255.6.11:1234
 #EXTINF:-1 group-title="Кино",2+2
