@@ -5,53 +5,21 @@ http://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино",ТЕТ
-http://212.79.122.11:5014/udp/239.255.6.11:1234
-#EXTINF:-1 group-title="Кино",2+2
-http://212.79.122.11:5014/udp/239.255.6.14:1234
-#EXTINF:-1 group-title="Кино",ICTV2
-http://212.79.122.11:5014/udp/239.255.6.8:1234
-#EXTINF:-1 group-title="Кино",Світ+
-http://212.79.122.11:5014/udp/239.255.6.29:1234
-#EXTINF:-1 group-title="Кино",Enter-фильм
-http://212.79.122.11:5014/udp/239.255.6.31:1234
-#EXTINF:-1 group-title="Кино",Мега
-http://212.79.122.11:5014/udp/239.255.6.40:1234
-#EXTINF:-1 group-title="Кино",К1
-http://212.79.122.11:5014/udp/239.255.6.41:1234
-#EXTINF:-1 group-title="Кино",super+
-http://212.79.122.11:5014/udp/239.255.6.42:1234
-#EXTINF:-1 group-title="Кино",1+1 Україна
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384904&extension=ts
-#EXTINF:-1 group-title="Кино",НТН
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384894&extension=ts
-#EXTINF:-1 group-title="Кино",СТБ
-http://87.246.54.249:8080/espressotv/index.m3u8
-#EXTINF:-1 group-title="Кино",Бровари Кіно TV
-https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
-#EXTINF:-1 group-title="Кино",Кинокомедия
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 group-title="Кино",Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="Кино",Киносвидание
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-#EXTINF:-1 group-title="Кино",Наше Новое Кино
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384903&extension=ts
 #EXTINF:-1 group-title="Кино",Новий Канал / Надія
 http://178.217.215.57/mob/mystream.m3u8
-#EXTINF:-1 group-title="Кино",Перец!
-http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 group-title="Кино",Феникс
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 group-title="Кино",Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="Кино",Amedia 2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 group-title="Кино",Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:-1 group-title="Кино",viju TV1000 Русское
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="Кино",.black
-http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 group-title="Кино",ОЦЕ
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384908&extension=ts
+#EXTINF:-1 group-title="Кино",2+2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384902&extension=ts
+#EXTINF:-1 group-title="Кино",СТБ
+http://87.246.54.249:8080/espressotv/index.m3u8
+#EXTINF:-1 group-title="Кино",НТН
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384894&extension=ts
+#EXTINF:-1 group-title="Кино",1+1 Україна
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384904&extension=ts
+#EXTINF:-1 group-title="Кино",Бровари Кіно TV
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
@@ -64,10 +32,6 @@ http://176.118.197.101/Evrokino/index.m3u8
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино TV
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Классика кино
-http://46.53.208.4/live/3006.m3u8?keytva.in.ua
-#EXTINF:-1 group-title="Кино",Советское кино
-http://46.53.208.4/live/3018.m3u8?keytva.in.ua
 #EXTINF:-1 group-title="Кино",MM Скорость
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:-1 group-title="Кино",CPS Action
@@ -93,8 +57,6 @@ http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 
 
 
-#EXTINF:-1 group-title="18+",BangU
-http://169.150.255.53/BangU/index.m3u8
 #EXTINF:-1 group-title="18+",Playboy TV
 http://169.150.255.53/PlayboyHD/index.m3u8
 #EXTINF:-1 group-title="18+",Brazzers
